@@ -1,0 +1,1 @@
+export default function Home(){return <main style={{padding:40,fontFamily:'Arial'}}><h1>Vazquez CPA</h1><h2>Accounting, Tax & Advisory Services Built Around Relationships</h2><p>Helping New York business owners gain clarity, confidence and peace of mind.</p><p><a href='https://calendly.com/vazquez-cpa'>Speak With Christopher</a></p><p>Email: Vazquez.CPA@outlook.com</p></main>}
